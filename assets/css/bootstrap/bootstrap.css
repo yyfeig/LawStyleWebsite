@@ -2952,6 +2952,7 @@ tbody.collapse.show {
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
+    max-width: -webkit-fill-available;
     justify-content: space-between; }
 
 .navbar-brand {
